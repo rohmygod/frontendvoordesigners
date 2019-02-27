@@ -1,9 +1,11 @@
 # frontend voor designers - opdracht 1
-Hier beschrijf je de opdracht, wat je hebt gemaakt en hoe je je ontwerp door verschillende versies te testen hebt verbeterd. Bij iedere test voeg je een link toe naar de betreffende demo.
 
-Bijvoorbeel bij de demo van versie in kun je zo een link maken, zodat iedereen de demo zelf kan uitproberen:
+Voor opdracht 1 kon je kiezen uit een aantal verschillende opdrachten, ik heb gekozen om aan de slag te gaan met een drag en drop playlist. In versie 1 heb ik een redelijk werkende drag & drop alleen snapte ik er echt helemaal niks van, dus dat was een copy paste geval om een beetje een gevoel te krijgen van wat het moest worden. Hier heb ik met name veel websites afgezocht om te kijken naar een duidelijke uitleg. 
 
-HOOOOOI
+Bij versie 2 had ik een goede uitleg video gevonden en snap ik m'n code dit keer dus ook lol! Vervolgens ben ik aan de slag gegaan met proberen om ervoor te zorgen dat ik ook afbeeldingen kan verwisselen zodra ze gedragged en gedropped worden. 
+
+Jammer genoeg is bij versie 3 het me (nog!!!!) niet gelukt om de afbeeldingen te verwisselen, maar heb ik wel even wat css tegevoegd om het er wat leuker uit te laten zien. Dus tot zover is mijn drag & drop gelukt en ook gefaalt haha. 
+
 
 [Demo 1 voor opdracht 1](https://rohmygod.github.io/frontendvoordesigners/opdracht1/v1/)
 
@@ -11,8 +13,4 @@ HOOOOOI
 
 [Demo 3 voor opdracht 1](https://rohmygod.github.io/frontendvoordesigners/opdracht1/v3/)
 
-[Demo 4 voor opdracht 1](https://rohmygod.github.io/frontendvoordesigners/opdracht1/v4/)
 
-Je kan ook een link plaatsen naar de bron code van de demo:
-
-[Code demo 1 voor opdracht 1](https://github.com/rohmygod/frontendvoordesigners/blob/master/opdracht1/v1/)
