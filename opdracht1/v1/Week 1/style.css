@@ -1,0 +1,58 @@
+*,*:before,*:after { box-sizing: border-box; }
+body { font-family: sans-serif; }
+[draggable] {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  /* Required to make elements draggable in old WebKit */
+  -khtml-user-drag: element;
+  -webkit-user-drag: element;
+}
+
+.cover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15vw;
+}
+
+div { 
+    display: flex;
+    width: 30vw;
+    margin: auto;
+}
+
+ul {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: grey;
+    border-radius: 3px;
+  margin: 10px;
+  padding: 10px;
+  color: #fff;
+  transition: all 0.2s;
+    display: flex;
+    width: 30vw;
+}
+
+li img {
+    padding: 0.2rem 1rem 0.2rem 0.2rem;
+    
+}
+
+li.moving {
+  // transform: scale(0.95);
+  border: 2px solid black;
+  opacity: 0.5;
+}
+
+#target { 
+    border-left: 0; 
+}
