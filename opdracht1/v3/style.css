@@ -1,0 +1,48 @@
+body {
+	background-image: url('images/cover.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+img {
+	width: 10rem;
+	height: 10rem;
+}
+
+#wrap {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.fill {
+	background-image: url(images/Cole.png);
+	width: 40rem;
+	height: 4rem;
+	position: relative;
+	top: 5px;
+	left: 5px;
+	cursor: pointer;
+}
+
+.empty {
+	width: 40.5rem;
+	height: 4.5rem;
+	margin: 10px;
+	border: 3px black solid;
+	background-color: #e2e2e0;
+	transition: all .2s ease-in-out;
+}
+
+.hold {
+	border: 3px solid #DBAD72;
+}
+
+.hovered {
+	background: #DBAD72;
+	transform: scale(1.1);
+}
+
+.invisible {
+	display: none;
+}
