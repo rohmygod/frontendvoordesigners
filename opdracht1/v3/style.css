@@ -9,6 +9,12 @@ img {
 	height: 10rem;
 }
 
+h1 {
+	font-family: Helvetica, Arial, Sans-serife;
+	color: white;
+	font-size: 3rem;
+}
+
 #wrap {
 	display: flex;
 	flex-direction: column;
