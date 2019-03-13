@@ -9,6 +9,9 @@ Het begin van de carousel ging op zich goed, alleen ontdekte ik toen dat in mijn
 Bij versie twee heb ik meer gekeken naar de keyevents. Dit bleek echt heel erg makkelijk te zijn, je zoekt de juiste keycodes die horen bij het pijltje links en rechts en vervolgens zorg je er in javascript voor dat als je bijvoorbeeld rechts in drukt de carousel verder gaat en links terug. 
 [Demo 2 voor opdracht 2](https://rohmygod.github.io/frontendvoordesigners/opdracht2/v2/)
 
+Voor versie 3 ben ik aan de slag gegaan om te kijken of het me zou lukken om van die dots onderin de carousel te hebben die aangeven hoeveel afbeeldingen er in totaal zien en op welke je nu bent. 
+[Demo 2 voor opdracht 3](https://rohmygod.github.io/frontendvoordesigners/opdracht2/v3/)
+
 
 
 Bronnen: https://www.youtube.com/watch?v=KcdBOoK3Pfw
