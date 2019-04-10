@@ -11,11 +11,19 @@
         "reviews":[
             {
                 "id":1,
-                "score":"1. Man In Nood",
+                "score":8,
+                "movie_id":1,
+                "created_at":"2013-09-18T16:09:50.000Z",
+                "updated_at":"2013-09-18T16:09:50.000Z",
+                "review_text":null
             },
             {
                 "id":2,
-                "score":"2. Oorlog",
+                "score":8,
+                "movie_id":1,
+                "created_at":"2013-09-18T16:09:50.000Z",
+                "updated_at":"2013-09-18T16:09:50.000Z",
+                "review_text":null
             },{
                 "id":3,
                 "score":10,
