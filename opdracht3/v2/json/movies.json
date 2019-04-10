@@ -1,11 +1,11 @@
 [
     {
         "id":1,
-        "title":"Evil Dead",
+        "title":"Man In Nood",
         "plot":"Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods. The evil presence possesses them until only one is left to fight for survival.",
         "simple_plot":"Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.",
         "release_date":"5 April 2013",
-        "cover":"https://m.media-amazon.com/images/M/MV5BNTQ3OTkwNTgyN15BMl5BanBnXkFtZTcwNTAzOTAzOQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "cover":"https://i.ibb.co/DzW9wn5/f315730f00c8c78a1d88c729e31c3c33-640x640x1.jpg",
         "trailer":"https://video-http.media-imdb.com/MV5BNjA4MzMxMTg0N15BMTFeQW1wNF5BbWU3MDk3MDgzMzk@.mp4?Expires=1545338853&Signature=qkK3icYSCrfJiydSBpk5Mfmm1XU4E1bPOXgf4Bz2WibMfFLqpiy5NY8K~cXZNwCSlSPMfvs3adz1Fz~jm6tF7J0LHkIOFN8PoRiibdqd~u62X8Q0W~1WhKf2c0-6su2aUCSBAxewe-YZwdr8DlovNIBxBjk1vnscGeuFx8v-fgo_&Key-Pair-Id=APKAILW5I44IHKUN2DYA",
         "genres":["Horror"],
         "reviews":[
@@ -81,11 +81,11 @@
     }, 
     {
         "id":2,
-        "title":"The Shawshank Redemption",
+        "title":"4 Your Eyez Only",
         "plot":"Andy Dufresne is a young and successful banker whose life changes drastically when he is convicted and sentenced to life imprisonment for the murder of his wife and her lover. Set in the 1940's, the film shows how Andy, with the help of his friend Red, the prison entrepreneur, turns out to be a most unconventional prisoner. Written by Martin Lewison",
         "simple_plot":"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
         "release_date":"14 October 1994",
-        "cover":"https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "cover":"https://i.ibb.co/b6Knc1g/511385-1.jpg",
         "trailer":"https://video-http.media-imdb.com/MV5BODlhNjU1YjQtOTQyOS00MmY2LWFlZTgtODg1ZjY1N2NjNDMyXkExMV5BbXA0XkFpbWRiLWV0cy10cmFuc2NvZGU@.mp4?Expires=1545339652&Signature=Wt5L9C0~HZ~AQLF5H~D7BAxCOPBQaNxIqxIICEF5apExwauB07M5vax10pne~ZneUA6y6WAWb3Q5djYRKkQ6xTJDSWvJCNeDx8D4fwP3GoUxaADkMPVbsBT2WynXsm8opgvAeL4aLQ14PQ92d5rLSQKPuInpvhbn6LEA5o8dvBE_&Key-Pair-Id=APKAILW5I44IHKUN2DYA",
         "genres":["Crime","Drama"],
         "reviews":[{"id":5,"score":9,"movie_id":2,"created_at":"2013-09-18T16:09:50.000Z","updated_at":"2013-09-18T16:09:50.000Z","review_text":null},{"id":6,"score":9,"movie_id":2,"created_at":"2013-09-18T16:09:50.000Z","updated_at":"2013-09-18T16:09:50.000Z","review_text":null},{"id":7,"score":10,"movie_id":2,"created_at":"2013-09-18T16:09:50.000Z","updated_at":"2013-09-18T16:09:50.000Z","review_text":null},{"id":8,"score":10,"movie_id":2,"created_at":"2013-09-18T16:09:50.000Z","updated_at":"2013-09-18T16:09:50.000Z","review_text":null}],
