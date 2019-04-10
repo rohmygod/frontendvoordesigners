@@ -5,14 +5,9 @@ Voor opdracht 3 was het de bedoeling dat je een json file in kan laden, de websi
 Ik ben begonnen met de carousel boven aan en het stijlen van de button. Ook heb ik geprobeerd om een beetje een indeling te maken voor nu.
 [Demo 1 voor opdracht 2](https://rohmygod.github.io/frontendvoordesigners/opdracht3/v1/)
 
-Bij versie twee heb ik meer gekeken naar de keyevents. Dit bleek echt heel erg makkelijk te zijn, je zoekt de juiste keycodes die horen bij het pijltje links en rechts en vervolgens zorg je er in javascript voor dat als je bijvoorbeeld rechts in drukt de carousel verder gaat en links terug. 
-[Demo 2 voor opdracht 2](https://rohmygod.github.io/frontendvoordesigners/opdracht2/v2/)
+Bij de 2e versie heb ik gekeken naar de keyevents, zodat als je de spatiebalk indrukt de data geladen wordt. Ook heb ik de films vervangen voor muziek albums.(https://rohmygod.github.io/frontendvoordesigners/opdracht3/v2/)
 
-Voor versie 3 ben ik aan de slag gegaan om te kijken of het me zou lukken om van die dots onderin de carousel te hebben die aangeven hoeveel afbeeldingen er in totaal zien en op welke je nu bent. 
-[Demo 2 voor opdracht 3](https://rohmygod.github.io/frontendvoordesigners/opdracht2/v3/)
-
+Voor versie 3 ben ik visueel meer aan de slag gegaan en heb ik de review content aangepast. Ook heb ik een tracklist aan de lijst toegevoegd. 
+[Demo 2 voor opdracht 3](https://rohmygod.github.io/frontendvoordesigners/opdracht3/v3/)
 
 
-Bronnen: https://www.youtube.com/watch?v=KcdBOoK3Pfw
-https://keycode.info
-https://www.youtube.com/watch?v=VBVOXTgXX2U
