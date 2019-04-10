@@ -1,16 +1,13 @@
-# frontend voor designers
+# frontend voor designers - opdracht 3
+Voor opdracht 3 was het de bedoeling dat je een json file in kan laden, de website kan vormgeven, deze ook kan laten zien op een ander device en er voor zorgt dat de button geactiveerd kan worden door middel van keypress. 
+*Open de demo's met Chrome, op Safari werkt het helaas niet zo goed*
 
-In het vak Frontend voor Designers leer je hoe je met HTML en CSS, en een beetje Javascript, snel en eenvoudig prototypes kan maken om je ontwerp ideeën te testen in een browser. We gaan animeren, responsive layouts uitproberen en interactie coderen ...
+Ik ben begonnen met de carousel boven aan en het stijlen van de button. Ook heb ik geprobeerd om een beetje een indeling te maken voor nu.
+[Demo 1 voor opdracht 2](https://rohmygod.github.io/frontendvoordesigners/opdracht3/v1/)
 
-Dit is de [online url](https://koopreynders.github.io/frontendvoordesigners/) met de opdrachten om te kunnen bekijken en testen in een browser.
+Bij de 2e versie heb ik gekeken naar de keyevents, zodat als je de spatiebalk indrukt de data geladen wordt. Ook heb ik de films vervangen voor muziek albums.(https://rohmygod.github.io/frontendvoordesigners/opdracht3/v2/)
 
-Het vak bestaat uit 3 opdrachten:
-
-1. [Opdracht 1](https://github.com/rohmygod/frontendvoordesigners/tree/master/opdracht1)
-2. [Opdracht 2](opdracht2/)
-3. [Opdracht 3](opdracht3/)
+Voor versie 3 ben ik visueel meer aan de slag gegaan en heb ik de review content aangepast. Ook heb ik een tracklist aan de lijst toegevoegd. 
+[Demo 2 voor opdracht 3](https://rohmygod.github.io/frontendvoordesigners/opdracht3/v3/)
 
 
----
-- [Markup cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Getting started with GitHub Pages](https://guides.github.com/features/pages/)
